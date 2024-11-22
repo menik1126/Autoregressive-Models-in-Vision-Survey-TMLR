@@ -345,29 +345,8 @@ Markdown format:
 | Turing Test                           | Qualitative               | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                 |
 | User Studies (ratings, satisfaction)↑ | Qualitative               | Various, depending on the user study methodology                                         |
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ChaofanTao/Autoregressive-Models-in-Vision-Survey&type=Date)](https://star-history.com/#ChaofanTao/Autoregressive-Models-in-Vision-Survey&Date)
 
-## ♥️ Contributors
 
-<a href="https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ChaofanTao/Autoregressive-Models-in-Vision-Survey" />
-</a>
-
-## 📑 Citation
-
-Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
-
-```BibTeX
-@misc{xiong2024autoregressive,
-    title={Autoregressive Models in Vision: A Survey},
-    author={Jing Xiong and Gongye Liu and Lun Huang and Chengyue Wu and Taiqiang Wu and Yao Mu and Yuan Yao and Hui Shen and Zhongwei Wan and Jinfa Huang and Chaofan Tao and Shen Yan and Huaxiu Yao and Lingpeng Kong and Hongxia Yang and Mi Zhang and Guillermo Sapiro and Jiebo Luo and Ping Luo and Ngai Wong},
-    year={2024},
-    eprint={2411.05902},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-```
 
 
