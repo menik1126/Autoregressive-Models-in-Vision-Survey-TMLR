@@ -8,8 +8,7 @@
 
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
    [![arxiv](https://img.shields.io/badge/Arxiv-2411.05902-red)](https://arxiv.org/pdf/2411.05902.pdf)
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaofanTao%2FAutoregressive-Models-in-Vision-Survey&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-   ![GitHub Repo stars](https://img.shields.io/github/stars/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
+   
 
 </h5>
 
@@ -34,7 +33,7 @@ Autoregressive models have shown significant progress in generating high-quality
 We welcome feedback, suggestions, and contributions that can help improve this survey and repository and make them valuable resources for the entire community.
 We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions about our taxonomy, please take a look at any missed papers, or update any preprint arXiv paper that has been accepted to some venue.
 
-If you want to add your work or model to this list, please do not hesitate to [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)).
+
 Markdown format:
 
 ```markdown
