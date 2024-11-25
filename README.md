@@ -7,7 +7,7 @@
 <h5 align="center">
 
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-   [![arxiv](https://img.shields.io/badge/Arxiv-2411.05902-red)](https://arxiv.org/pdf/2411.05902.pdf)
+  
    
 
 </h5>
